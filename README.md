@@ -1,13 +1,13 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-<h1 align="center">Store Management System</h1>
+<h1 align="center">Goods Management System</h1>
 <hr>
 
 
 ## Quick Installation
 
-    git clone https://github.com/ashishkumar0503/store-management-system-laravel
+    git clone https://github.com/VishnuShankarSingh2003/Goods-Management-System.git
 
-    cd Store_Management_System
+    cd Goods_Management_System
     
 ### Composer
 
